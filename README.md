@@ -1,4 +1,5 @@
 ## Ecoleta-NLW
+### Visualização
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/ecoleta_Ep3FMHv7g.gif" alt="gif referente a Ecoleta">
 </h1>
@@ -22,6 +23,13 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
+## Como utilizar
+Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
+- [NodeJs](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
+
+---
+
 ## Como baixar o projeto
 
 ```bash
@@ -40,4 +48,4 @@ $ npm start
 ```
 ---
 
-Desenvolvido por **Arthur Barros**
+Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
