@@ -6,6 +6,8 @@
                                                                           
 # Indice
 - [Sobre](#sobre) || [Tecnologias utilizadas](#tecnologias-utilizadas) || [Como utilizar](#como-utilizar) || [Como rodar o projeto](#como-rodar-o-projeto)
+
+---
           
 ## Sobre
 O projeto **Ecoleta**, Aplicação desenvolvida na semana **Next Level Week**, Aplicação desenvolvida com intuito de aprender as melhores tecnologias do mercado.
