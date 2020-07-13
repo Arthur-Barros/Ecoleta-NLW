@@ -5,7 +5,7 @@
 </h1>
                                                                           
 # Indice
-[Sobre](#sobre) || [Tecnologias utilizadas](#tecnologias-utilizadas) || [Como utilizar](#como-utilizar) || [Como baixar o projeto](#como-baixar-o-projeto)
+- [Sobre](#sobre) || [Tecnologias utilizadas](#tecnologias-utilizadas) || [Como utilizar](#como-utilizar) || [Como baixar o projeto](#como-baixar-o-projeto)
           
 ## Sobre
 O projeto **Ecoleta**, Aplicação desenvolvida na semana **Next Level Week**, Aplicação desenvolvida com intuito de aprender as melhores tecnologias do mercado.
@@ -30,7 +30,7 @@ Para executar essa aplicação você vai precisar dos seguintes softwares instal
 
 ---
 
-## Como baixar o projeto
+## Como rodar o projeto
 
 ```bash
 # Clonar repositório
