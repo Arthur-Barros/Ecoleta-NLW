@@ -1,21 +1,21 @@
 ## Ecoleta-NLW
 
-### Visualização
+### :movie_camera: Visualização
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/ecoleta_Ep3FMHv7g.gif" alt="gif referente a Ecoleta">
 </h1>
                                                                           
-# Indice
+# :computer: Indice
 - [Sobre](#sobre) || [Tecnologias utilizadas](#tecnologias-utilizadas) || [Como utilizar](#como-utilizar) || [Como rodar o projeto](#como-rodar-o-projeto)
 
 ---
           
-## Sobre
+## :bookmark: Sobre
 O projeto **Ecoleta**, Aplicação desenvolvida na semana **Next Level Week**, Aplicação desenvolvida com intuito de aprender as melhores tecnologias do mercado.
 
 ---
 
-## Tecnologias utilizadas
+## :rocket: Tecnologias utilizadas
 
 o projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -26,14 +26,14 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
-## Como utilizar
+## :electric_plug: Como utilizar
 Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
 - [NodeJs](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 
 ---
 
-## Como rodar o projeto
+## :file_folder: Como rodar o projeto
 
 ```bash
 # Clonar repositório
@@ -51,4 +51,4 @@ $ npm start
 ```
 ---
 
-Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
+Desenvolvido por :purple_heart: **Arthur Barros** :email: [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
