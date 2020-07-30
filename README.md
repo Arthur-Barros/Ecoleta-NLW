@@ -6,7 +6,7 @@
 </h1>
                                                                           
 # :computer: Indice
-- [Sobre](#sobre) || [Tecnologias utilizadas](#tecnologias-utilizadas) || [Como utilizar](#como-utilizar) || [Como rodar o projeto](#como-rodar-o-projeto)
+- [Sobre](#bookmark-sobre) || [Tecnologias utilizadas](#rocket-tecnologias-utilizadas) || [Como utilizar](#electric_plug-como-utilizar) || [Como rodar o projeto](#file_folder-como-rodar-o-projeto)
 
 ---
           
